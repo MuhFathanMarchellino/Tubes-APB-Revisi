@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255388234325",
+    "project_id": "cobaloginbisa",
+    "storage_bucket": "cobaloginbisa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255388234325:android:8950bf42d6a6c2dbcb1adc",
+        "android_client_info": {
+          "package_name": "com.example.coba_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255388234325-1fnbg18v4rgun00t9c096ufcptln2q1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgh70L6HYb9o-1hQyhaeD8VD9FGN3h5U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255388234325-1fnbg18v4rgun00t9c096ufcptln2q1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
